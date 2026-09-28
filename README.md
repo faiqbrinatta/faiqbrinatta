@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=faiqbrinatta&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=faiqbrinatta&label=Profile+Views&color=101E1D&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/faiqbrinatta?style=for-the-badge&logo=github&color=101E1D&labelColor=101E1D" alt="Followers" />
 
 </div>
@@ -136,7 +136,7 @@ I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-101E1D?style=for-the-badge&logo=github&logoColor=black" />
 
 **Web Development · Full Stack Apps · REST API · UI/UX · Open Source**
 
@@ -146,6 +146,6 @@ I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/
 
 ### 💻 Build. Learn. Improve. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101E1D,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
