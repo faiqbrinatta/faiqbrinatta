@@ -18,19 +18,18 @@ jobs:
       contents: write
 
     steps:
-
-      - name: Generate GitHub Contribution Snake
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: faiqbrinatta
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#00F7FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+            dist/github-snake-dark.svg?color_snake=#00F7FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
