@@ -2,185 +2,167 @@
 
 # 👋 Hi, I'm Fa'iq Zhafran Naufal Brinatta
 
-### 💻 Full Stack Developer | Web Developer | Problem Solver
+### 💻 Full Stack Developer · Project Manager · Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Developer;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Problem+Solver+%7C+Project+Manager" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Informatics+Graduate+%40+Universitas+Negeri+Malang" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:faiqbrinatta14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://instagram.com/faiqznbrinatta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<a href="mailto:faiqbrinatta14@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<br><br>
 
-<a href="https://instagram.com/faiqznbrinatta">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00F7FF&labelColor=0d1117" alt="Followers" />
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Full Stack Developer** and **S1 Informatics Engineering graduate from Universitas Negeri Malang** with a strong interest in web application development, system integration, and problem solving.
+I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/4.00) from Universitas Negeri Malang**. I turn ideas and business requirements into responsive, user-friendly web applications.
 
-I have experience in **Frontend Development, Backend Development, Database Management, REST API, Testing, Deployment, and Project Management**.
-
-I enjoy transforming ideas and business requirements into functional, responsive, and user-friendly digital solutions.
-
-### 🎓 Education
-
-- **S1 Teknik Informatika — Universitas Negeri Malang**
-- **GPA: 3.80 / 4.00**
-- 2022 — 2026
+- 🔭 Currently working as **Project Manager & Frontend Developer** at **Solveit Indonesia**
+- 🌱 Focused on **Laravel, React, Next.js, and REST API** development
+- 🤝 Open to collaboration on web development, full stack apps, and open source
+- 📫 Reach me at **faiqbrinatta14@gmail.com**
 
 ---
 
-# ⚡ Tech Stack
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,typescript" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
-
----
-# 💼 Experience
-
-### 🚀 Solveit Indonesia
-**Project Manager & Frontend Developer**
-
-`Oct 2025 — Present`
-
-- Manage website and application development
-- Coordinate project tasks
-- Monitor development progress
-- Develop responsive frontend interfaces
-- Collaborate with backend developers
-- Communicate with clients
-- Perform testing and debugging
-
----
-
-### 💻 LPPM Universitas Negeri Malang
-**Web Developer Intern**
-
-`Jun 2025 — Aug 2025`
-
-- Contributed to RADAR UM development
-- Developed frontend interfaces
-- Managed database
-- Performed testing and debugging
-- Worked with Laravel, MySQL and Bootstrap
-
----
-
-### 📊 PT Inovasi Lentera Cipta Kreasi
-**Junior Data Scientist**
-
-`Jan 2025 — Jun 2025`
-
-- Data processing and cleaning
-- Exploratory data analysis
-- Data visualization
-- Analysis reporting
-- Team-based data science projects
-
----
-
-# 📊 GitHub Statistics
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+| | |
+|---|---|
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" /> |
+| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=mysql,postgresql" /> |
+| **🛠️ Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /> |
 
 </div>
 
-# 🤝 Let's Collaborate
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-### 🚀 Open for Collaboration
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-I'm interested in collaborating on:
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
-**Web Development**  
-**Full Stack Applications**  
-**REST API**  
-**UI/UX**  
-**Open Source**  
-**Digital Solutions**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+<!-- OPTIONAL: Contribution snake (needs a GitHub Action, see notes) -->
+<!--
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+</picture>
+</div>
+-->
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<!-- Replace REPO_NAME_1..4 with your best repositories -->
+<a href="https://github.com/YOUR_USERNAME/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/YOUR_USERNAME/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" /></a>
+
+<a href="https://github.com/YOUR_USERNAME/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/YOUR_USERNAME/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company |
+|---|---|---|
+| **Oct 2025 – Present** | Project Manager & Frontend Developer | 🚀 Solveit Indonesia |
+| **Jun 2025 – Aug 2025** | Web Developer Intern | 💻 LPPM Universitas Negeri Malang |
+| **Jan 2025 – Jun 2025** | Junior Data Scientist | 📊 PT Inovasi Lentera Cipta Kreasi |
+
+<details>
+<summary><b>🚀 Solveit Indonesia — Project Manager & Frontend Developer</b></summary>
 <br>
+
+- Manage website and application development end to end
+- Coordinate tasks and monitor development progress
+- Build responsive frontend interfaces and collaborate with backend developers
+- Communicate with clients, perform testing and debugging
+
+</details>
+
+<details>
+<summary><b>💻 LPPM Universitas Negeri Malang — Web Developer Intern</b></summary>
+<br>
+
+- Contributed to the development of **RADAR UM**
+- Built frontend interfaces and managed the database
+- Testing and debugging with **Laravel, MySQL, and Bootstrap**
+
+</details>
+
+<details>
+<summary><b>📊 PT Inovasi Lentera Cipta Kreasi — Junior Data Scientist</b></summary>
+<br>
+
+- Data processing, cleaning, and exploratory data analysis
+- Data visualization and analysis reporting in team-based projects
+
+</details>
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🎓 **MSIB Batch 2** — Junior Data Scientist, VINIX7 (2025)
+- 👨‍💼 **Chairman** — Himpunan Mahasiswa Departemen Teknik Elektro dan Informatika (2024)
+- 📋 LKMM-TM & LKMM-TD (2024)
+- 🌐 Cisco IT Essentials (2023)
+- 🎓 Committee, 8th ICEEEIE (2023)
+
+---
+
+## 🧠 Soft Skills
+
+<div align="center">
+
+`Leadership` `Team Management` `Project Management` `Communication` `Problem Solving` `Adaptability` `Teamwork` `Time Management` `Responsibility`
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
 
-</div>
+**Web Development · Full Stack Apps · REST API · UI/UX · Open Source**
 
----
+📧 [faiqbrinatta14@gmail.com](mailto:faiqbrinatta14@gmail.com) &nbsp;·&nbsp; 📸 [@faiqznbrinatta](https://instagram.com/faiqznbrinatta)
 
-# 🏆 Certifications & Achievements
-
-- 🎓 MSIB Batch 2 — Junior Data Scientist, VINIX7 (2025)
-- 👨‍💼 Ketua Himpunan Mahasiswa Departemen Teknik Elektro dan Informatika (2024)
-- 📋 LKMM-TM (2024)
-- 📋 LKMM-TD (2024)
-- 🌐 Cisco IT Essentials (2023)
-- 🎓 8th ICEEEIE Committee (2023)
-
----
-
-# 🧠 Soft Skills
-
-<div align="center">
-
-`Leadership` `Team Management` `Project Management`  
-`Communication` `Problem Solving` `Adaptability`  
-`Teamwork` `Time Management` `Responsibility`
-
-</div>
-
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-### Have an idea, project, or collaboration?
-
-Feel free to reach out!
-
-📧 **faiqbrinatta14@gmail.com**
-
-📱 **085854438393**
-
-📸 **@faiqznbrinatta**
-
+<br>
 
 ### 💻 Build. Learn. Improve. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
