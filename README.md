@@ -34,7 +34,7 @@
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 I'm a **Full Stack Developer** and **Informatics Engineering graduate from Universitas Negeri Malang** with a **GPA of 3.80/4.00**.
 
@@ -42,7 +42,7 @@ I have experience in developing web applications across **frontend, backend, dat
 
 I enjoy transforming ideas and business requirements into responsive, functional, and user-friendly digital solutions.
 
-### 🎓 Education
+#### 🎓 Education
 
 **Universitas Negeri Malang — Malang, Indonesia**
 
@@ -54,29 +54,29 @@ GPA: **3.80 / 4.00**
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
+#### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
 <br><br>
 
-### ⚙️ Backend
+#### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 
 <br><br>
 
-### 🗄️ Database
+#### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
 <br><br>
 
-### 🛠️ Tools
+#### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
@@ -84,7 +84,7 @@ GPA: **3.80 / 4.00**
 
 ---
 
-# 💡 What I Do
+## 💡 What I Do
 
 <div align="center">
 
@@ -103,7 +103,7 @@ GPA: **3.80 / 4.00**
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -123,7 +123,7 @@ GPA: **3.80 / 4.00**
 <details>
 <summary><b>📊 RADAR UM</b></summary>
 
-### Resilience and Adaptive Assessment Ranking
+#### Resilience and Adaptive Assessment Ranking
 
 A web-based platform developed for institutional resilience and adaptive assessment ranking at Universitas Negeri Malang.
 
@@ -252,7 +252,7 @@ A professional training and certification platform focused on competency develop
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
 ## 🚀 Solveit Indonesia
 
@@ -298,7 +298,7 @@ A professional training and certification platform focused on competency develop
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -316,36 +316,38 @@ A professional training and certification platform focused on competency develop
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=faiqbrinatta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-alt="GitHub Stats" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqbrinatta&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=faiqbrinatta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
-alt="GitHub Trophies"
+  src="https://github-readme-stats.vercel.app/api?username=faiqbrinatta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqbrinatta&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  alt="Top Languages"
 />
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=faiqbrinatta&theme=tokyonight&no-frame=true&no-bg=true&column=6"
+  alt="GitHub Trophies"
+/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -372,7 +374,7 @@ alt="GitHub Trophies"
 
 ---
 
-# 🏆 Certifications & Achievements
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
@@ -389,7 +391,7 @@ alt="GitHub Trophies"
 
 ---
 
-# 🧠 Soft Skills
+## 🧠 Soft Skills
 
 <div align="center">
 
@@ -407,11 +409,11 @@ alt="GitHub Trophies"
 
 ---
 
-# 🤝 Let's Collaborate
+## 🤝 Let's Collaborate
 
 <div align="center">
 
-### 🚀 Let's build something meaningful together.
+#### 🚀 Let's build something meaningful together.
 
 I'm open to collaborating on:
 
@@ -443,7 +445,7 @@ I'm open to collaborating on:
 
 <div align="center">
 
-### 💻 Build. Learn. Improve. Repeat.
+#### 💻 Build. Learn. Improve. Repeat.
 
 <br>
 
