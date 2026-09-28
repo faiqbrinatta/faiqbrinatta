@@ -4,11 +4,11 @@
 <!--                         HEADER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101E1D,100:00F7FF&height=180&section=header&text=FA'IQ%20Z.N.%20BRINATTA&fontSize=38&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Project%20Manager&descAlignY=62&descSize=18&descColor=00F7FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101E1D,100:00F7FF&height=180&section=header&text=FA'IQ%20Z.N.%20BRINATTA&fontSize=38&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=62&descSize=18&descColor=00F7FF" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Project+Manager;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Software+Engineer;Project+Manager;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 
 <br><br>
 
@@ -35,23 +35,7 @@
 ---
 
 ## 🧑‍💻 About Me
-
-I'm a **Full Stack Developer** and **Informatics Engineering graduate from Universitas Negeri Malang** with a **GPA of 3.80/4.00**.
-
-I have experience in developing web applications across **frontend, backend, database management, REST API integration, testing, debugging, and project management**.
-
-I enjoy transforming ideas and business requirements into responsive, functional, and user-friendly digital solutions.
-
-#### 🎓 Education
-
-**Universitas Negeri Malang — Malang, Indonesia**
-
-**S1 Teknik Informatika**  
-GPA: **3.80 / 4.00**  
-2022 — 2026
-
-> Thesis: *Evaluasi Teknik Back-Translation Untuk Augmentasi Data Pada Klasifikasi Kualitas Proposisi Peta Konsep*
-
+<p>A Bachelor’s degree graduate in Informatics Engineering from Universitas Negeri Malang with experience in full-stack web application development, from development to deployment. Skilled in building frontend and backend systems, REST API integration, database management, testing, and debugging using PHP, React.js, Laravel, MySQL, Git, and Postman. Possesses strong analytical and problem-solving skills, with the ability to collaborate effectively within a team to develop reliable and scalable software solutions that meet industry and client requirements.</p>
 ---
 
 ## ⚡ Tech Stack
