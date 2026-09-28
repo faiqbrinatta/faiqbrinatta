@@ -56,20 +56,6 @@ I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<!-- Replace REPO_NAME_1..4 with your best repositories -->
-<a href="https://github.com/solveit-id/hismaya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=solveit-id&repo=hismaya&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/solveit-id/umkm_kayutangan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=solveit-id&repo=umkm_kayutangan&theme=tokyonight&hide_border=true" /></a>
-
-<a href="https://github.com/faiqbrinatta/portofolio-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=portofolio-website&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/faiqbrinatta/kripiku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=kripiku&theme=tokyonight&hide_border=true" /></a>
-
-</div>
-
----
 
 ## 💼 Experience
 
