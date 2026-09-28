@@ -67,124 +67,6 @@ I enjoy transforming ideas and business requirements into functional, responsive
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-## 📊 RADAR UM
-
-**Resilience and Adaptive Assessment Ranking**
-
-A web-based platform developed to support institutional resilience and adaptive assessment ranking at Universitas Negeri Malang.
-
-### Contribution
-
-- Developed frontend and backend
-- Built responsive user interfaces
-- Developed backend logic and data processing
-- Integrated database
-- Implemented institution management
-- Implemented assessment features
-- Implemented result visualization
-
-**Tech Stack:**  
-`Laravel` `JavaScript` `Bootstrap` `CSS` `MySQL`
-
----
-
-## 🧠 MentorPsikologi
-
-An online psychology consultation platform that allows users to find psychologists and access educational articles.
-
-### Contribution
-
-- Developed frontend using Blade, HTML, CSS and JavaScript
-- Integrated frontend with Laravel backend
-- Developed psychologist search feature
-- Developed article features
-- Managed MySQL database
-- Implemented authentication
-- Performed testing and debugging
-
-**Tech Stack:**  
-`Laravel` `Blade` `JavaScript` `Bootstrap` `MySQL`
-
----
-
-## 🛒 Kripiku E-Commerce
-
-An e-commerce platform developed to help local tempe chip businesses in Malang expand their digital presence.
-
-### Contribution
-
-- Developed the frontend
-- Designed responsive UI/UX
-- Built product catalog
-- Implemented search functionality
-- Developed authentication pages
-- Integrated dynamic product data
-- Optimized website for desktop and mobile
-
-**Tech Stack:**  
-`Laravel` `Blade` `JavaScript` `Bootstrap` `MySQL`
-
----
-
-## 🏢 Hismaya Cahaya Rahayu
-
-A modern company profile website designed to strengthen the company's digital presence.
-
-### Role
-
-**Project Manager & Frontend Developer**
-
-### Contribution
-
-- Managed task distribution
-- Coordinated development team
-- Monitored project progress
-- Developed responsive frontend
-- Created reusable UI components
-- Integrated frontend with REST API
-- Performed testing and debugging
-
-**Tech Stack:**  
-`Next.js` `TypeScript` `Tailwind CSS` `REST API` `PostgreSQL`
-
----
-
-## 🌏 UMKM Kayutangan
-
-A digital information platform introducing Kayutangan Malang, its history, and local UMKM.
-
-### Contribution
-
-- Developed modern responsive UI
-- Created reusable UI components
-- Optimized product and content presentation
-- Implemented frontend features
-- Performed testing and debugging
-
-**Tech Stack:**  
-`React` `TypeScript` `Tailwind CSS` `REST API`
-
----
-
-## 🏢 Govind Abra Enterprise
-
-A professional training and certification website.
-
-### Contribution
-
-- Developed responsive ranking interface
-- Implemented frontend components
-- Developed assessment and institution management pages
-- Integrated dynamic backend data
-
-**Tech Stack:**  
-`Laravel` `Tailwind CSS` `JavaScript` `MySQL`
-
----
-
 # 💼 Experience
 
 ### 🚀 Solveit Indonesia
@@ -237,28 +119,6 @@ A professional training and certification website.
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 # 🤝 Let's Collaborate
 
@@ -320,11 +180,6 @@ Feel free to reach out!
 
 📸 **@faiqznbrinatta**
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=flat" />
-
-<br><br>
 
 ### 💻 Build. Learn. Improve. Repeat.
 
