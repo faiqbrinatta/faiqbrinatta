@@ -61,11 +61,11 @@ I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/
 <div align="center">
 
 <!-- Replace REPO_NAME_1..4 with your best repositories -->
-<a href="https://github.com/faiqbrinatta/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/faiqbrinatta/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/solveit-id/hismaya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/solveit-id/umkm_kayutangan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" /></a>
 
-<a href="https://github.com/faiqbrinatta/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/faiqbrinatta/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/faiqbrinatta/portofolio-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/faiqbrinatta/kripiku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
