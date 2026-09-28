@@ -321,12 +321,14 @@ A professional training and certification platform focused on competency develop
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=faiqbrinatta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+  src="https://github-readme-stats.vercel.app/api?username=faiqbrinatta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
   alt="GitHub Stats"
 />
 
+<br><br>
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqbrinatta&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqbrinatta&layout=compact&theme=tokyonight&hide_border=true"
   alt="Top Languages"
 />
 
