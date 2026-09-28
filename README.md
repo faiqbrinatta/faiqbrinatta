@@ -4,11 +4,11 @@
 <!--                         HEADER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101E1D,100:00F7FF&height=180&section=header&text=FA'IQ%20Z.N.%20BRINATTA&fontSize=38&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=62&descSize=18&descColor=00F7FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101E1D,100:00F7FF&height=180&section=header&text=FA'IQ%20Z.N.%20BRINATTA&fontSize=38&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Project%20Manager&descAlignY=62&descSize=17&descColor=00F7FF" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Software+Engineer;Project+Manager;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Software+Engineer;Project+Manager;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 
 <br><br>
 
@@ -35,20 +35,24 @@
 ---
 
 ## 🧑‍💻 About Me
-<p>A Bachelor’s degree graduate in Informatics Engineering from Universitas Negeri Malang with experience in full-stack web application development, from development to deployment. Skilled in building frontend and backend systems, REST API integration, database management, testing, and debugging using PHP, React.js, Laravel, MySQL, Git, and Postman. Possesses strong analytical and problem-solving skills, with the ability to collaborate effectively within a team to develop reliable and scalable software solutions that meet industry and client requirements.</p>
+
+<p>
+I'm an Informatics Engineering graduate from Universitas Negeri Malang with experience in full-stack web application development and project coordination, from development to deployment. Skilled in frontend and backend development, REST API integration, database management, testing, and debugging using PHP, React.js, Laravel, MySQL, Git, and Postman. Strong in analytical thinking, problem-solving, communication, and teamwork, with experience managing development tasks and collaborating to deliver reliable software solutions that meet industry and client requirements.
+</p>
+
 ---
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-#### 🎨 Frontend
+#### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
 <br><br>
 
-#### ⚙️ Backend
+#### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 
@@ -60,7 +64,7 @@
 
 <br><br>
 
-#### 🛠️ Tools
+#### 🛠️ Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
@@ -75,13 +79,14 @@
 | Area | Focus |
 |:---:|---|
 | 💻 | **Full Stack Web Development** |
+| ⚙️ | **Software Engineering & System Development** |
 | 🎨 | **Frontend Development & UI Implementation** |
-| ⚙️ | **Backend Development & REST API** |
+| 🔗 | **REST API Integration** |
 | 🗄️ | **Database Management** |
 | 🧪 | **Testing & Debugging** |
-| 🚀 | **Project Management** |
-| 🤝 | **Team Collaboration** |
-| 📊 | **Data Analysis** |
+| 🚀 | **Project Management & Task Coordination** |
+| 🤝 | **Team Collaboration & Communication** |
+| 📊 | **Data Analysis & Problem Solving** |
 
 </div>
 
@@ -102,138 +107,6 @@
 
 </div>
 
-<br>
-
-<details>
-<summary><b>📊 RADAR UM</b></summary>
-
-#### Resilience and Adaptive Assessment Ranking
-
-A web-based platform developed for institutional resilience and adaptive assessment ranking at Universitas Negeri Malang.
-
-**Contribution:**
-
-- Developed the system across frontend and backend
-- Built responsive user interfaces
-- Developed backend logic and data processing
-- Integrated database
-- Implemented institution management
-- Implemented assessment features
-- Implemented result visualization
-
-**Tech Stack:**  
-`Laravel` `CSS` `Bootstrap` `JavaScript` `MySQL`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🧠 MentorPsikologi</b></summary>
-
-Online psychology consultation platform that allows users to find psychologists and access educational articles.
-
-**Contribution:**
-
-- Developed frontend using Blade, HTML, CSS, and JavaScript
-- Integrated frontend with Laravel backend
-- Developed psychologist search
-- Developed article features
-- Managed MySQL database
-- Implemented user authentication
-- Performed testing and debugging
-
-**Tech Stack:**  
-`Laravel` `Blade` `CSS` `Bootstrap` `JavaScript` `MySQL`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🛒 Kripiku E-Commerce</b></summary>
-
-An e-commerce platform developed to help local tempe chip businesses in Malang expand their digital presence.
-
-**Contribution:**
-
-- Developed the frontend
-- Designed responsive UI/UX
-- Built product catalog
-- Implemented product search
-- Developed login and registration pages
-- Integrated dynamic product data
-- Optimized interface for desktop and mobile
-
-**Tech Stack:**  
-`Laravel` `CSS` `Bootstrap` `JavaScript` `MySQL`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🏢 Hismaya Cahaya Rahayu</b></summary>
-
-A modern company profile website designed to strengthen the company's digital presence.
-
-**Role:**  
-**Project Manager & Frontend Developer**
-
-**Contribution:**
-
-- Managed task distribution
-- Coordinated the development team
-- Monitored project progress
-- Developed responsive frontend
-- Created reusable UI components
-- Integrated frontend with REST API
-- Performed testing and debugging
-
-**Tech Stack:**  
-`Next.js` `Tailwind CSS` `TypeScript` `REST API` `PostgreSQL`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🌏 UMKM Kayutangan</b></summary>
-
-A digital information platform introducing Kayutangan Malang, its history, and local UMKM.
-
-**Contribution:**
-
-- Developed modern responsive UI
-- Created reusable UI components
-- Optimized product and content presentation
-- Performed testing and debugging
-- Developed frontend features
-
-**Tech Stack:**  
-`React` `Tailwind CSS` `TypeScript` `REST API`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🏆 Govind Abra Enterprise</b></summary>
-
-A professional training and certification platform focused on competency development and digital transformation.
-
-**Contribution:**
-
-- Built responsive ranking interface
-- Implemented frontend components
-- Developed assessment and institution management pages
-- Integrated dynamic backend data
-
-**Tech Stack:**  
-`Laravel` `Tailwind CSS` `JavaScript` `MySQL`
-
-</details>
-
 ---
 
 ## 💼 Professional Experience
@@ -243,14 +116,14 @@ A professional training and certification platform focused on competency develop
 **Project Manager & Frontend Developer**  
 `Oct 2025 — Present`
 
-- Manage website and application development
-- Plan and coordinate project tasks
-- Distribute tasks within the development team
-- Monitor project progress
+- Manage website and application development projects
+- Plan project tasks and development workflows
+- Distribute tasks across the development team
+- Monitor project progress and deliverables
 - Develop responsive frontend interfaces
-- Collaborate with backend developers
-- Communicate with clients
-- Perform testing and debugging
+- Collaborate with backend developers for system integration
+- Communicate with clients regarding project requirements
+- Perform testing, debugging, and issue resolution
 
 ---
 
@@ -260,11 +133,11 @@ A professional training and certification platform focused on competency develop
 `Jun 2025 — Aug 2025`
 
 - Contributed to the development of **RADAR UM**
-- Developed frontend interfaces
-- Managed application database
+- Developed responsive frontend interfaces
+- Worked with application databases
 - Performed testing and debugging
-- Worked with Laravel, MySQL, and Bootstrap
-- Collaborated with the development team
+- Used Laravel, MySQL, Bootstrap, and JavaScript
+- Collaborated with the development team throughout the development process
 
 ---
 
@@ -273,28 +146,25 @@ A professional training and certification platform focused on competency develop
 **Junior Data Scientist**  
 `Jan 2025 — Jun 2025`
 
-- Performed data processing and cleaning
+- Performed data processing and data cleaning
 - Conducted exploratory data analysis
 - Created data visualizations
-- Prepared analysis reports
+- Prepared analytical reports
 - Collaborated on data science projects
 - Applied data analysis concepts to project-based case studies
 
 ---
 
 ## 🎯 Current Focus
-
 <div align="center">
 
-💻 **Full Stack Web Development**
+💻 **Full Stack Web Applications** ·
+⚙️ **Software Engineering** ·
+🚀 **Project Management**
 
-⚙️ **REST API & System Integration**
-
-🎨 **Modern UI/UX Implementation**
-
-🚀 **Web Application Development**
-
-🤝 **Project & Team Collaboration**
+🔗 **REST API & System Integration** ·
+🎨 **Modern UI/UX** ·
+🤝 **Team & Project Collaboration**
 
 </div>
 
@@ -303,6 +173,7 @@ A professional training and certification platform focused on competency develop
 ## 📊 GitHub Stats & Trophies
 
 <div align="center">
+
 <p align="center">
 
   <a href="https://github.com/faiqbrinatta">
@@ -329,6 +200,7 @@ A professional training and certification platform focused on competency develop
   />
 
 </p>
+
 </div>
 
 ---
@@ -368,8 +240,8 @@ A professional training and certification platform focused on competency develop
 |:---:|---|
 | **2025** | 🎓 MSIB Batch 2 — Junior Data Scientist, VINIX7 |
 | **2024** | 👨‍💼 Chairman — Himpunan Mahasiswa Departemen Teknik Elektro dan Informatika |
-| **2024** | 📋 Penilai — LKMM-TD |
-| **2024** | 📋 Peserta Lulus — LKMM-TM |
+| **2024** | 📋 Assessor — LKMM-TD |
+| **2024** | 📋 Participant — LKMM-TM |
 | **2023** | 🌐 Cisco IT Essentials |
 | **2023** | 🎓 Committee — 8th ICEEEIE |
 
@@ -377,19 +249,15 @@ A professional training and certification platform focused on competency develop
 
 ---
 
-## 🧠 Soft Skills
+## 🧠 Core Skills
 
 <div align="center">
 
-`Leadership`  
-`Team Management`  
-`Project Management`  
-`Communication`  
-`Problem Solving`  
-`Adaptability`  
-`Teamwork`  
-`Time Management`  
-`Responsibility`
+`Full Stack Development` · `Software Engineering` · `Project Management` · `Frontend Development`
+
+`Backend Development` · `REST API Integration` · `Database Management` · `Testing & Debugging`
+
+`Problem Solving` · `Team Management` · `Communication` · `Time Management`
 
 </div>
 
@@ -399,15 +267,15 @@ A professional training and certification platform focused on competency develop
 
 <div align="center">
 
-#### 🚀 Let's build something meaningful together.
+#### 🚀 Let's build meaningful digital solutions together.
 
 I'm open to collaborating on:
 
 <br>
 
-**Web Development** · **Full Stack Applications** · **REST API**
+**Full Stack Web Development** · **Software Engineering** · **Web Applications**
 
-**UI/UX Implementation** · **Digital Solutions** · **Open Source**
+**REST API** · **Digital Solutions** · **Open Source Projects**
 
 <br><br>
 
@@ -428,29 +296,6 @@ I'm open to collaborating on:
 </div>
 
 ---
-
-<div align="center">
-
-#### 💻 Build. Learn. Improve. Repeat.
-
-<br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+meaningful+%F0%9F%9A%80;Always+learning.+Always+building."
-alt="Footer typing animation"
-/>
-
-<br><br>
-
-<a href="mailto:faiqbrinatta14@gmail.com">
-
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-101E1D?style=for-the-badge&logo=gmail&logoColor=00F7FF" />
-
-</a>
-
-</div>
-
-<br>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:101E1D,100:0d1117&height=120&section=footer&animation=twinkling"
