@@ -8,14 +8,14 @@
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/faiqbrinatta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:faiqbrinatta14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/faiqznbrinatta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00F7FF&labelColor=0d1117" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=faiqbrinatta&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/faiqbrinatta?style=for-the-badge&logo=github&color=00F7FF&labelColor=0d1117" alt="Followers" />
 
 </div>
 
@@ -48,8 +48,8 @@ I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faiqbrinatta/faiqbrinatta/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/faiqbrinatta/faiqbrinatta/output/github-snake.svg" />
 </picture>
 </div>
 
@@ -61,11 +61,11 @@ I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/
 <div align="center">
 
 <!-- Replace REPO_NAME_1..4 with your best repositories -->
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/faiqbrinatta/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/faiqbrinatta/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" /></a>
 
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/faiqbrinatta/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/faiqbrinatta/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=faiqbrinatta&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
