@@ -45,6 +45,8 @@ I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/
 
 </div>
 
+---
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -67,7 +69,6 @@ I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/
 </picture>
 
 </div>
-
 
 ---
 
