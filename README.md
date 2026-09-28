@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fa'iq Zhafran Naufal Brinatta
 
-### 💻 Full Stack Developer · Project Manager · Problem Solver
+### 💻 Full Stack Developer · Project Manager
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Informatics+Graduate+%40+Universitas+Negeri+Malang" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 <a href="mailto:faiqbrinatta14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/faiqznbrinatta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=faiqbrinatta&label=Profile+Views&color=101E1D&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/faiqbrinatta?style=for-the-badge&logo=github&color=101E1D&labelColor=101E1D" alt="Followers" />
@@ -72,14 +72,34 @@ I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 📊 **RADAR UM** | Institutional resilience & assessment platform | Laravel · MySQL · Bootstrap |
+| 🧠 **MentorPsikologi** | Online psychology consultation platform | Laravel · MySQL · JavaScript |
+| 🛒 **Kripiku** | E-commerce platform for local UMKM | Laravel · MySQL · Bootstrap |
+| 🏢 **Hismaya** | Company profile & business website | Next.js · TypeScript · PostgreSQL |
+| 🌏 **UMKM Kayutangan** | Digital information platform for local UMKM | React · TypeScript · REST API |
+| 🏆 **Govind Abra Enterprise** | Training & certification platform | Laravel · Tailwind · MySQL |
+
+</div>
+
+---
 
 ## 💼 Experience
 
+<div align="center">
+  
 | Period | Role | Company |
 |---|---|---|
 | **Oct 2025 – Present** | Project Manager & Frontend Developer | 🚀 Solveit Indonesia |
 | **Jun 2025 – Aug 2025** | Web Developer Intern | 💻 LPPM Universitas Negeri Malang |
 | **Jan 2025 – Jun 2025** | Junior Data Scientist | 📊 PT Inovasi Lentera Cipta Kreasi |
+
+</div>
 
 <details>
 <summary><b>🚀 Solveit Indonesia — Project Manager & Frontend Developer</b></summary>
@@ -110,6 +130,8 @@ I'm a **Full Stack Developer** and **Informatics Engineering graduate (GPA 3.80/
 - Data visualization and analysis reporting in team-based projects
 
 </details>
+
+
 
 ---
 
