@@ -316,35 +316,35 @@ A professional training and certification platform focused on competency develop
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Trophies
 
 <div align="center">
+<p align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=faiqbrinatta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  alt="GitHub Stats"
-/>
+  <a href="https://github.com/faiqbrinatta">
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=faiqbrinatta&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10"
+      alt="Fa'iq's GitHub Stats"
+    />
+  </a>
 
-<br><br>
+  <img
+    src="https://streak-stats.demolab.com/?user=faiqbrinatta&theme=nightowl&hide_border=true&cache_seconds=86400"
+    alt="Fa'iq's GitHub Streak"
+    width="49%"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqbrinatta&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
+</p>
 
-</div>
+<p align="center">
 
----
+  <img
+    src="https://trophy.ryglcloud.net/?username=faiqbrinatta&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400"
+    alt="Fa'iq's GitHub Trophies"
+  />
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=faiqbrinatta&theme=tokyonight&no-frame=true&no-bg=true&column=6"
-  alt="GitHub Trophies"
-/>
-
+</p>
 </div>
 
 ---
