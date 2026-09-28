@@ -15,7 +15,7 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=faiqbrinatta&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/faiqbrinatta?style=for-the-badge&logo=github&color=00F7FF&labelColor=101E1D" alt="Followers" />
+<img src="https://img.shields.io/github/followers/faiqbrinatta?style=for-the-badge&logo=github&color=101E1D&labelColor=101E1D" alt="Followers" />
 
 </div>
 
